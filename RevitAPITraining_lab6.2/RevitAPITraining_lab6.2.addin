@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab6.2.dll"</Assembly>		
+		<AddInId>77712055-D66A-4B9E-BB3F-E1542EB0D826</AddInId>
+		<FullClassName>RevitAPITraining_lab6._2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка мебели</Text>
+	</AddIn>
+</RevitAddIns>
